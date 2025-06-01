@@ -69,7 +69,7 @@ marks = np.random.normal(loc=70, scale=10, size=100)
 # Generating dataset of random numbers
 np.random.seed(1)
 num_var = np.random.randn(1000)
-num_var = pd.Series(num_var, name = "Numerical Variable")
+Name : Keerthana Saravanan
 num_var
 
 # IMPLEMENT HISTOGRAM
